@@ -1,7 +1,4 @@
-# Platform inconsistency testbed
-
-Run on mac: OK
-Run on windows: KO
+# Testbed to pump a file stream into a request and save
 
 ```
 npm install

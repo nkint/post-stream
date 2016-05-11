@@ -1,14 +1,24 @@
 {
   "name": "post-stream",
   "version": "1.0.0",
-  "description": "minimum working example to try the error",
+  "description": "Testbed to pump a file stream into a request and save",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "testbed",
+    "express",
+    "stream",
+    "pump",
+    "file",
+    "transfer",
+    "download",
+    "upload"
+  ],
+  "author": "Alberto Massa <nootropic.kint@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
